@@ -26,7 +26,6 @@ int main() {
 		printf("\np[-%d] => %d \n",i,p[-i]);
 		printf("\n*(p-%d) => %d\n",i,*(p-i));
 		printf("\n========================\n");
-
 	}
 
 	return 0;
